@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | Karina Malich| | |
+| 1 | | Karina Malich | Mariana Rudyk | |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
@@ -21,3 +21,4 @@
 | GitHub-нік | Ім'я |
 |---|---|
 | karinamalich| Karina Malich|
+| marianarudyk|Mariana Rudyk |
