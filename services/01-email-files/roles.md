@@ -7,7 +7,7 @@
 
 | Блок | Service Owner | Incident Manager | Change Manager | Risk & Knowledge |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 | | | nazzony | |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
